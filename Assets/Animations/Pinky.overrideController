@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Pinky
+  m_Controller: {fileID: 9100000, guid: bfcd735a56812e64aa4c56ee62ace19a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1fb21bd275f347e469044bbbcc4c7c95, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b0875c5e1d98123439f0b4015d2c783a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c0ff6b6c6dd8c6e4aacbde1a233d98fa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9e7796e2a58ee8f4c9d9cc05c466e501, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1571ce720a26218439634475b92c1a3f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ba9cf721fb319004ca31f133be58dccc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ffeca4d1275faa94caceb79cb2b66b14, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 68aea9cb5cb6d1b49ac63651db3d4305, type: 2}
